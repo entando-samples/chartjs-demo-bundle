@@ -1,0 +1,7 @@
+code: chartjs-bundle
+description: This is the Chart.js demo bundle
+
+components:
+  widgets:
+      - ui/widgets/chartjs/chartjs/chartjs-widget-descriptor.yaml
+
