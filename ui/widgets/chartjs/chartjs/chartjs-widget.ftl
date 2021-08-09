@@ -2,8 +2,8 @@
 <script src="<@wp.resourceURL />chartjs-bundle/static/js/2.f821fd5b.chunk.js"></script>
 <script src="<@wp.resourceURL />chartjs-bundle/static/js/2.f821fd5b.chunk.js.LICENSE.txt"></script>
 <script src="<@wp.resourceURL />chartjs-bundle/static/js/2.f821fd5b.chunk.js.map"></script>
-<script src="<@wp.resourceURL />chartjs-bundle/static/js/main.e2fcc404.chunk.js"></script>
-<script src="<@wp.resourceURL />chartjs-bundle/static/js/main.e2fcc404.chunk.js.map"></script>
+<script src="<@wp.resourceURL />chartjs-bundle/static/js/main.f72d2f9a.chunk.js"></script>
+<script src="<@wp.resourceURL />chartjs-bundle/static/js/main.f72d2f9a.chunk.js.map"></script>
 <script src="<@wp.resourceURL />chartjs-bundle/static/js/runtime-main.403592fd.js"></script>
 <script src="<@wp.resourceURL />chartjs-bundle/static/js/runtime-main.403592fd.js.map"></script>
 <link href="<@wp.resourceURL />chartjs-bundle/static/css/main.a617e044.chunk.css" rel="stylesheet">
